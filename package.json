@@ -2,7 +2,7 @@
   "name": "minimal-theme-light",
   "displayName": "Minimal Theme Light",
   "description": "A clean, minimal light theme inspired by Cursor.",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "publisher": "pooya-kamel",
   "license": "MIT",
   "engines": {
@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Minimal Theme",
+        "label": "Minimal Light",
         "uiTheme": "vs",
         "path": "./themes/minimal-color-theme.json"
+      },
+      {
+        "label": "Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimal-dark-color-theme.json"
       }
     ]
   }

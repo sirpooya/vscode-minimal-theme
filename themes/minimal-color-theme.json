@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "Minimal Light",
 	"type": "light",
 	"colors": {
 		"activityBar.background": "#f3f3f3",
