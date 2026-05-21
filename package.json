@@ -2,7 +2,7 @@
   "name": "minimal-theme-light",
   "displayName": "Minimal Theme Light",
   "description": "A clean, minimal light theme inspired by Cursor.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "pooya-kamel",
   "license": "MIT",
   "engines": {
