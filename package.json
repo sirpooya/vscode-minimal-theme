@@ -1,16 +1,16 @@
 {
-  "name": "minimal-theme",
-  "displayName": "Minimal Theme",
+  "name": "minimal-theme-light",
+  "displayName": "Minimal Theme Light",
   "description": "A clean, minimal light theme inspired by Cursor.",
   "version": "0.0.1",
-  "publisher": "YOUR_PUBLISHER_ID",
+  "publisher": "pooya-kamel",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": ["Themes"],
   "keywords": ["theme", "light", "minimal", "cursor"],
-  "icon": "icon.png",
+  "icon": "thumbnail.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/YOUR_GITHUB/vscode-minimal-theme"
