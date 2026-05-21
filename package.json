@@ -13,7 +13,7 @@
   "icon": "thumbnail.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB/vscode-minimal-theme"
+    "url": "https://github.com/sirpooya/vscode-minimal-theme"
   },
   "contributes": {
     "themes": [
